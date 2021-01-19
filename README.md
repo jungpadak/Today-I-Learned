@@ -18,7 +18,11 @@
 > - `Update` - 문서 수정
 
 # 기록
-> 2021-01-19 
-  - [자바스크립트 변수](./JavaScript/Variable.md)
-  - [자바스크립트 데이터 타입](./JavaScript/Data_Type.md)
-  - [깃허브 폴더 클릭이 안되는 문제](./Error/git_folder_error.md)
+
+> 2021-01-19
+
+- [자바스크립트 변수](./JavaScript/Variable.md)
+- [자바스크립트 데이터 타입](./JavaScript/Data_Type.md)
+- [깃허브 폴더 클릭이 안되는 문제](./Error/git_folder_error.md)
+- [자바스크립트 함수](./JavaScript/Function.md)
+- [자바스크립트 연산자](./JavaScript/Operator.md)
