@@ -5,7 +5,6 @@
 > - 오늘 학습하거나 알게 된 혹은 궁금한 것들을 매일매일 정리
 > - 작성한 문서는 다시 검색하지 않도록 최대한 꼼꼼하게 작성
 
-
 # Daily Algorithm 규칙
 
 > - 그 날 정한 문제를 풀지 못하면 다음날 이어한다.
@@ -19,13 +18,20 @@
 
 # 기록
 
+> 2021-1-21
+
+- [JavaScript / 반복문](./JavaScript/반복문.md)
+- [DailyAlgorithm / 크레인 인형뽑기 게임](./DailyAlgorithm/크레인_인형뽑기_게임.md)
+
 > 2021-1-20
-- [자바스크립트 조건문](./JavaScript/조건문.md)
-- [문자열을 다루는 다양한 방법들](./JavaScript/문자열을_다루는_다양한_방법들.md)
+
+- [JavaScript / 조건문](./JavaScript/조건문.md)
+- [JavaScript / 문자열을 다루는 다양한 방법들](./JavaScript/문자열을_다루는_다양한_방법들.md)
 
 > 2021-01-19
-- [자바스크립트 변수](./JavaScript/Variable.md)
-- [자바스크립트 데이터 타입](./JavaScript/Data_Type.md)
-- [깃허브 폴더 클릭이 안되는 문제](./Error/git_folder_error.md)
-- [자바스크립트 함수](./JavaScript/Function.md)
-- [자바스크립트 연산자](./JavaScript/Operator.md)
+
+- [JavaScript / 자바스크립트 변수](./JavaScript/Variable.md)
+- [JavaScript / 자바스크립트 데이터 타입](./JavaScript/Data_Type.md)
+- [Error / 깃허브 폴더 클릭이 안되는 문제](./Error/git_folder_error.md)
+- [JavaScript / 자바스크립트 함수](./JavaScript/Function.md)
+- [JavaScript / 자바스크립트 연산자](./JavaScript/Operator.md)
