@@ -68,7 +68,7 @@ console.log(greeting); // 'My Name Is Woogie'
 // case 2 //
 let num1 = 10;
 let num2 = 3;
-let result = num1 * num2;
+let result = num1 + num2;
 console.log(result); // 13
 let result2 = result + num1;
 console.log(result2); // 23
