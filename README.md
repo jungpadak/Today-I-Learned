@@ -22,6 +22,7 @@
 
 - [JavaScript / 반복문](./JavaScript/반복문.md)
 - [DailyAlgorithm / 크레인 인형뽑기 게임](./DailyAlgorithm/크레인_인형뽑기_게임.md)
+- [개발환경 / Prettier Setting](./개발환경/Prettier_setting.md)
 
 > 2021-1-20
 
