@@ -20,7 +20,8 @@
 
 > 2021-1-22
 
-- [TpyeScript / 타입스크립트??](./TypeScript/TypeScript.md)
+- [TypeScript / 타입스크립트??](./TypeScript/TypeScript.md)
+- [TypeScript / 타입 종류](./TypeScript/타입_종류.md)
 - [DailyAlgorithm / 두 개 뽑아서 더하기](./DailyAlgorithm/두_개_뽑아서_더하기.md)
 
 > 2021-1-21
