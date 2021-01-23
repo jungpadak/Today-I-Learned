@@ -150,7 +150,7 @@ fs.writeFile("text.txt", data, "utf8", function (err) {
 들어갑니다
 ```
 
-## Pandoc과 Fs의 시너지
+## Pandoc와 Fs의 시너지
 
 Pandoc은 Markdown파일을 원하는 파일로 변환시켜준다. 그렇게 되면 Fs가 폴더내 변화를 감지하고 원하는 로직을 작성해서 파일의 내용을 뽑아 오거나 다른 파일에 내용을 넣어주거나 여러가지 기능을 만들수 있다.
 
@@ -240,7 +240,7 @@ fileSystem("./", "index.html");
     <title>Document</title>
   </head>
   <body>
-		<a href=./test.html>test.html</a> // 바뀜!!!!
+	  <a href=./test.html>test.html</a> // 바뀜!!!!
   </body>
 </html>
 ```
