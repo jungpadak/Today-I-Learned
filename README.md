@@ -22,11 +22,12 @@
 
 - [ETC / Pandoc과 Node Fs로 파일 감지 시스템](./ETC/Pandoc와_Node_Fs로_파일_감지시스템.md)
 - [DailyAlgorithm / 가운데 글자 가져오기](./DailyAlgorithm/가운데_글자_가져오기.md)
+- [JavaScript / Math](./JavaScript/Math.md)
 
 > 2021-1-22
 
 - [TypeScript / 타입스크립트??](./TypeScript/TypeScript.md)
-- [TypeScript / 타입 종류](./TypeScript/타입_종류.md)
+- [TypeScript / Unfinish 타입 종류](./TypeScript/타입_종류.md)
 - [DailyAlgorithm / 두 개 뽑아서 더하기](./DailyAlgorithm/두_개_뽑아서_더하기.md)
 
 > 2021-1-21
