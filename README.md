@@ -21,6 +21,7 @@
 > 2021-1-23
 
 - [ETC / Pandoc과 Node Fs로 파일 감지 시스템](./ETC/Pandoc와_Node_Fs로_파일_감지시스템.md)
+- [DailyAlgorithm / 가운데 글자 가져오기](./DailyAlgorithm/가운데_글자_가져오기.md)
 
 > 2021-1-22
 
