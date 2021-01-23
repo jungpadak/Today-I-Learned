@@ -5,13 +5,9 @@
 > - 오늘 학습하거나 알게 된 혹은 궁금한 것들을 매일매일 정리
 > - 작성한 문서는 다시 검색하지 않도록 최대한 꼼꼼하게 작성
 
-# Daily Algorithm 규칙
-
-> - 그 날 정한 문제를 풀지 못하면 다음날 이어한다.
-> - 커밋 메세지는 사이트 - 문제 이름 이러한 방식으로 작성 ex ) 프로그래머스 - K번째 수
-
 # Commit 규칙
 
+> - DailyAlgorithm 커밋은 사이트 - 문제이름과 같은 형태로 작성
 > - 문서의 상황을 알아보기 쉽게 아래와 같이 타입을 만든다
 > - `Unfinish` - 작성을 다 하지 못하고 마무리하게 된 경우
 > - `Update` - 문서 수정
@@ -27,7 +23,7 @@
 > 2021-1-22
 
 - [TypeScript / 타입스크립트??](./TypeScript/TypeScript.md)
-- [TypeScript / Unfinish 타입 종류](./TypeScript/타입_종류.md)
+- [TypeScript / 타입 종류](./TypeScript/타입_종류.md)
 - [DailyAlgorithm / 두 개 뽑아서 더하기](./DailyAlgorithm/두_개_뽑아서_더하기.md)
 
 > 2021-1-21
