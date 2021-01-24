@@ -21,8 +21,8 @@
 > 2021-1-24
 
 - [DailyAlgorithm / 나누어 떨어지는 숫자 배열](./DailyAlgorithm/나누어_떨어지는_숫자_베열.md)
-- [TypeScript / 타입스크립트??](./TypeScript/타입스크립트??.md)
-- [TypeScript / 타입 종류](./TypeScript/타입_종류.md)
+- [**Update** TypeScript / 타입스크립트란](./TypeScript/타입스크립트란.md)
+- [**Update** TypeScript / 타입 종류](./TypeScript/타입_종류.md)
 
 > 2021-1-23
 
@@ -32,7 +32,7 @@
 
 > 2021-1-22
 
-- [**Unfinish** TypeScript / 타입스크립트??](./TypeScript/타입스크립트??.md)
+- [**Unfinish** TypeScript / 타입스크립트란](./TypeScript/타입스크립트란.md)
 - [**Unfinish** TypeScript / 타입 종류](./TypeScript/타입_종류.md)
 - [DailyAlgorithm / 두 개 뽑아서 더하기](./DailyAlgorithm/두_개_뽑아서_더하기.md)
 
