@@ -5,6 +5,8 @@
 > - 오늘 학습하거나 알게 된 혹은 궁금한 것들을 매일매일 정리
 > - 작성한 문서는 다시 검색하지 않도록 최대한 꼼꼼하게 작성
 
+<br />
+
 # Commit 규칙
 
 > - DailyAlgorithm 커밋은 사이트 - 문제이름과 같은 형태로 작성
@@ -12,7 +14,15 @@
 > - `Unfinish` - 작성을 다 하지 못하고 마무리하게 된 경우
 > - `Update` - 문서 수정
 
+<br />
+
 # 기록
+
+> 2021-1-24
+
+- [DailyAlgorithm / 나누어 떨어지는 숫자 배열](./DailyAlgorithm/나누어_떨어지는_숫자_베열.md)
+- [TypeScript / 타입스크립트??](./TypeScript/타입스크립트??.md)
+- [TypeScript / 타입 종류](./TypeScript/타입_종류.md)
 
 > 2021-1-23
 
@@ -22,8 +32,8 @@
 
 > 2021-1-22
 
-- [TypeScript / 타입스크립트??](./TypeScript/TypeScript.md)
-- [TypeScript / 타입 종류](./TypeScript/타입_종류.md)
+- [**Unfinish** TypeScript / 타입스크립트??](./TypeScript/타입스크립트??.md)
+- [**Unfinish** TypeScript / 타입 종류](./TypeScript/타입_종류.md)
 - [DailyAlgorithm / 두 개 뽑아서 더하기](./DailyAlgorithm/두_개_뽑아서_더하기.md)
 
 > 2021-1-21
