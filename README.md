@@ -18,6 +18,10 @@
 
 # 기록
 
+> 2021-1-25
+
+- [JavaSCript / 배열과 객체](./JavaScript/배열과_객체.md)
+
 > 2021-1-24
 
 - [DailyAlgorithm / 나누어 떨어지는 숫자 배열](./DailyAlgorithm/나누어_떨어지는_숫자_배열.md)
