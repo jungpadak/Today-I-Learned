@@ -20,8 +20,8 @@
 
 > 2021-1-25
 
-- [JavaSCript / 배열과 객체](./JavaScript/배열과_객체.md)
-- [JavaSCript / 참조값](./JavaScript/참조값.md)
+- [JavaScript / 배열과 객체](./JavaScript/배열과_객체.md)
+- [JavaScript / 참조값](./JavaScript/참조값.md)
 - [DailyAlgorithm / 문자내 P와 Y의 개수](./DailyAlgorithm/문자내_P와_Y의_개수.md)
 
 > 2021-1-24
