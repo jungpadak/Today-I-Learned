@@ -18,6 +18,12 @@
 
 # 기록
 
+> 2021-1-26
+
+- [JavaScript / 스코프](./JavaScript/스코프.md)
+- [DailyAlgorithm / 서울에서 김서방 찾기](./DailyAlgorithm/서울에서_김서방_찾기.md)
+- [DailyAlgorithm / 두 정수 사이의 합](./DailyAlgorithm/두_정수_사이의_합.md)
+
 > 2021-1-25
 
 - [JavaScript / 배열과 객체](./JavaScript/배열과_객체.md)
