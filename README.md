@@ -20,7 +20,7 @@
 
 > 2021-1-27
 
-- [CSS / **Unfinish** Flex](./CSS/Flex.md)
+- [**Unfinish** CSS / Flex](./CSS/Flex.md)
 - [JavaScript / 클로저](./JavaScript/클로저.md)
 - [DailyAlgorithm / 수박수박수박수박수?](./DailyAlgorithm./수박수박수박수박수.md)
 
