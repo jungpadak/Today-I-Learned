@@ -18,6 +18,11 @@
 
 # 기록
 
+> 2021-1-27
+
+- [JavaScript / 클로저](./JavaScript/클로저.md)
+- [DailyAlgorithm / 수박수박수박수박수?](./DailyAlgorithm./수박수박수박수박수.md)
+
 > 2021-1-26
 
 - [JavaScript / 스코프](./JavaScript/스코프.md)
