@@ -7,7 +7,7 @@
 > - 이해한 내용만 작성하자 <br /><br />
 
 <br />
-<div style="background: #ffffff"> </div>
+
 # Commit 규칙
 
 > <br />
@@ -20,6 +20,12 @@
 <br />
 
 # 기록
+
+> 2021-1-28
+
+- [JavaScript / 배열을 다루는 메소드](./JavaScript/배열을_다루는_메소드.md)
+- [JavaScript / 유사 배열 객체](./JavaScript/유사_배열_객체.md)
+- [DailyAlgorithm / 내적](./DailyAlgorithm/내적.md)
 
 > 2021-1-27
 
