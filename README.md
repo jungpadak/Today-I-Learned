@@ -2,17 +2,20 @@
 
 # Today I Learned 규칙
 
-> - 오늘 학습하거나 알게 된 혹은 궁금한 것들을 매일매일 정리
-> - 작성한 문서는 다시 검색하지 않도록 최대한 꼼꼼하게 작성
+> <br />
+> - 오늘 학습하거나 알게 된 혹은 궁금한 것들을 매일매일 정리<br />
+> - 이해한 내용만 작성하자 <br /><br />
 
 <br />
-
+<div style="background: #ffffff"> </div>
 # Commit 규칙
 
-> - DailyAlgorithm 커밋은 사이트 - 문제이름과 같은 형태로 작성
-> - 문서의 상황을 알아보기 쉽게 아래와 같이 타입을 만든다
-> - `Unfinish` - 작성을 다 하지 못하고 마무리하게 된 경우
-> - `Update` - 문서 수정
+> <br />
+> - DailyAlgorithm 커밋은 사이트 - 문제이름과 같은 형태로 작성<br />
+> - 문서의 상황을 알아보기 쉽게 아래와 같이 타입을 만든다<br />
+> - `unfinish` - 작성을 다 하지 못하고 마무리하게 된 경우<br />
+> - `finish` - `Unfinish`한 내용을 마무리한 경우<br />
+> - `update` - 문서 내용 보강 or 추가 <br /><br />
 
 <br />
 
@@ -20,7 +23,7 @@
 
 > 2021-1-27
 
-- [**Unfinish** CSS / Flex](./CSS/Flex.md)
+- [**unfinish** CSS / Flex](./CSS/Flex.md)
 - [JavaScript / 클로저](./JavaScript/클로저.md)
 - [DailyAlgorithm / 수박수박수박수박수?](./DailyAlgorithm./수박수박수박수박수.md)
 
@@ -39,8 +42,8 @@
 > 2021-1-24
 
 - [DailyAlgorithm / 나누어 떨어지는 숫자 배열](./DailyAlgorithm/나누어_떨어지는_숫자_배열.md)
-- [**Update** TypeScript / 타입스크립트란](./TypeScript/타입스크립트란.md)
-- [**Update** TypeScript / 타입 종류](./TypeScript/타입_종류.md)
+- [**finish** TypeScript / 타입스크립트란](./TypeScript/타입스크립트란.md)
+- [**finish** TypeScript / 타입 종류](./TypeScript/타입_종류.md)
 
 > 2021-1-23
 
@@ -50,8 +53,8 @@
 
 > 2021-1-22
 
-- [**Unfinish** TypeScript / 타입스크립트란](./TypeScript/타입스크립트란.md)
-- [**Unfinish** TypeScript / 타입 종류](./TypeScript/타입_종류.md)
+- [**unfinish** TypeScript / 타입스크립트란](./TypeScript/타입스크립트란.md)
+- [**unfinish** TypeScript / 타입 종류](./TypeScript/타입_종류.md)
 - [DailyAlgorithm / 두 개 뽑아서 더하기](./DailyAlgorithm/두_개_뽑아서_더하기.md)
 
 > 2021-1-21
