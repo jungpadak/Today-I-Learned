@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-1-29
+
+- [JavaScript / for in for of](./JavaScript/for_in_for_of.md)
+- [JavaScript / 얕은복사 깊은복사](./JavaScript/얕은복사_깊은복사.md)
+
 > 2021-1-28
 
 - [JavaScript / 배열을 다루는 메소드](./JavaScript/배열을_다루는_메소드.md)
