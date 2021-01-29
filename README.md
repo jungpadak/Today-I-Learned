@@ -25,6 +25,8 @@
 
 - [JavaScript / for in for of](./JavaScript/for_in_for_of.md)
 - [JavaScript / 얕은복사 깊은복사](./JavaScript/얕은복사_깊은복사.md)
+- [DailyAlgorithm / 문자열을 정수로 바꾸기](./DailyAlgorithm/문자열을_정수로_바꾸기.md)
+- [DailyAlgorithm / 짝수와 홀수](./DailyAlgorithm/짝수와_홀수.md)
 
 > 2021-1-28
 
