@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-1-30
+
+- [CLI_Git / CLI 기본 커맨드](./CLI_Git/CLI_기본_커맨드.md)
+- [DailyAlgorithm / 완주하지 못한 선수](./DailyAlgorithm/완주하지_못한_선수.md)
+
 > 2021-1-29
 
 - [JavaScript / for in for of](./JavaScript/for_in_for_of.md)
