@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-1-31
+
+- [Codestates / Pre Week2 Twittler](./Codestates/Pre_Week2_Twittler.md)
+- [DailyAlgorithm / K번째 수](./DailyAlgorithm/K번째_수.md)
+
 > 2021-1-30
 
 - [CLI_Git / CLI 기본 커맨드](./CLI_Git/CLI_기본_커맨드.md)
