@@ -99,7 +99,7 @@ for (let val of arr) {
 
 const str = "Woogie";
 
-for (let val of arr) {
+for (let val of str) {
   console.log(val);
 }
 
