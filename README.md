@@ -23,6 +23,7 @@
 
 > 2021-2-01
 
+- [Codestates / Pre Weel2 Twittler HTML CSS 추가](https://github.com/Woogie-94/Woogie-94.github.io/tree/master/CodeStates/Pre_Twittler)
 - [Codestates / Pre Course 2주차 회고](./Codestates/2주차_회고.md)
 - [DailyAlgorithm / 최솟값과 최댓값](./DailyAlgorithm/최솟값과_최댓값.md)
 
