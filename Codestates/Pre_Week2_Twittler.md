@@ -4,7 +4,7 @@
 
 HTML CSS 완성물
 
-### [Twittler 결과물 Link](https://github.com/Woogie-94/Woogie-94.github.io/tree/master/CodeStates/Pre_Twittler)
+### [Twittler 결과물 Git](https://github.com/Woogie-94/Woogie-94.github.io/tree/master/CodeStates/Pre_Twittler)
 
 Pair 시간에 급하게 대강 마무리한 Twittler CSS를 전부 뜯어내고 BEM 방법론을 이용한 SASS로 다시 작성하였다. BEM을 쓰려다보니 HTML 구조도 맘에 안들어서 처음부터 다시 해버렸다.
 
