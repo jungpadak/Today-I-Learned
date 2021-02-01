@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-2-01
+
+- [Codestates / Pre Course 2주차 회고](./Codestates/2주차_회고.md)
+- [DailyAlgorithm / 최솟값과 최댓값](./DailyAlgorithm/최솟값과_최댓값.md)
+
 > 2021-1-31
 
 - [Codestates / Pre Week2 Twittler](./Codestates/Pre_Week2_Twittler.md)
