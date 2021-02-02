@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-2-02
+
+- [JavaScript / 고차 함수](./JavaScript/고차_함수.md)
+- [DailyAlgorithm / 자릿수 더하기](./DailyAlgorithm/자릿수_더하기.md)
+
 > 2021-2-01
 
 - [Codestates / Pre Weel2 Twittler HTML CSS 추가](https://github.com/Woogie-94/Woogie-94.github.io/tree/master/CodeStates/Pre_Twittler)
