@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-2-03
+
+- [JavaScript / Reduce 활용법](./JavaScript/Reduece_활용법.md)
+- [DailyAlgorithm / 콜라츠 추측](./DailyAlgorithm/콜라츠_추측.md)
+
 > 2021-2-02
 
 - [JavaScript / 고차 함수](./JavaScript/고차_함수.md)
