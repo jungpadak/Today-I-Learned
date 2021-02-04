@@ -23,7 +23,7 @@
 
 > 2021-2-04
 
-- [**unfinish** Codestates / Pre Week3 Twittler](./Codestates/Pre_Week3_Twittler)
+- [**unfinish** Codestates / Pre Week3 Twittler](./Codestates/Pre_Week3_Twittler.md)
 - [DailyAlgorithm / OX퀴즈](./DailyAlgorithm/OX퀴즈.md)
 
 > 2021-2-03
