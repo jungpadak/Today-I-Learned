@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-2-04
+
+- [Codestates / Pre Week3 Twittler](./Codestates/Pre_Week3_Twittler)
+- [DailyAlgorithm / OX퀴즈](./DailyAlgorithm/OX퀴즈.md)
+
 > 2021-2-03
 
 - [JavaScript / Reduce 활용법](./JavaScript/Reduece_활용법.md)
