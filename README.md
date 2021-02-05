@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-2-05
+
+- [**finish** Codestates / Pre Week3 Twittler](./Codestates/Pre_Week3_Twittler.md)
+- [DailyAlgorithm / 최댓값](./DailyAlgorithm/최댓값.md)
+
 > 2021-2-04
 
 - [**unfinish** Codestates / Pre Week3 Twittler](./Codestates/Pre_Week3_Twittler.md)
