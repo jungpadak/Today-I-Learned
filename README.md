@@ -21,6 +21,12 @@
 
 # 기록
 
+> 2021-2-06
+
+- [Algorithm / 이진 탐색](./Algorithm/이진_탐색.md)
+- [Algorithm / 빅오 표기법](./Algorithm/빅오_표기법.md)
+- [DailyAlgorithm / 행렬의 덧셈](./DailyAlgorithm/행렬의_덧셈.md)
+
 > 2021-2-05
 
 - [**finish** Codestates / Pre Week3 Twittler](./Codestates/Pre_Week3_Twittler.md)
