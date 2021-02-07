@@ -26,7 +26,7 @@
 - [Algorithm / 선택 정렬](./Algorithm/선택_정렬.md)
 - [DailyAlgorithm / 평균 구하기](./DailyAlgorithm/평군_구하기.md)
 
-  > 2021-2-06
+> 2021-2-06
 
 - [Algorithm / 이진 탐색](./Algorithm/이진_탐색.md)
 - [Algorithm / 빅오 표기법](./Algorithm/빅오_표기법.md)
