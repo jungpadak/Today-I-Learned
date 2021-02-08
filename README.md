@@ -14,12 +14,16 @@
 > - DailyAlgorithm 커밋은 사이트 - 문제이름과 같은 형태로 작성<br />
 > - 문서의 상황을 알아보기 쉽게 아래와 같이 타입을 만든다<br />
 > - `unfinish` - 작성을 다 하지 못하고 마무리하게 된 경우<br />
-> - `finish` - `Unfinish`한 내용을 마무리한 경우<br />
+> - `finish` - `unfinish`한 내용을 마무리한 경우<br />
 > - `update` - 문서 내용 보강 or 추가 <br /><br />
 
 <br />
 
 # 기록
+
+> 2021-2-08
+
+- [JavaScript](./JavaScript/배열_메소드_만들며_이해하기.md)
 
 > 2021-2-07
 
