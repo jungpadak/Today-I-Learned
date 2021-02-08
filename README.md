@@ -23,7 +23,7 @@
 
 > 2021-2-08
 
-- [JavaScript](./JavaScript/배열_메소드_만들며_이해하기.md)
+- [JavaScript / 배열 메소드 만들며 이해하기](./JavaScript/배열_메소드_만들며_이해하기.md)
 
 > 2021-2-07
 
