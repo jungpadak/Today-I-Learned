@@ -21,6 +21,11 @@
 
 # 기록
 
+> 2021-2-09
+
+- [DailyAlgorithm / bianary](./DailyAlgorithm/biabary.md)
+- [DailyAlgorithm / 올바른 괄호](./DailyAlgorithm/올바른_괄호.md)
+
 > 2021-2-08
 
 - [JavaScript / 배열 메소드 만들며 이해하기](./JavaScript/배열_메소드_만들며_이해하기.md)
