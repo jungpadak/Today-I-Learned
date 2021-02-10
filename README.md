@@ -21,6 +21,10 @@
 
 # 기록
 
+> 2021-2-10
+
+- [JavaScript / 재귀](./JavaScript/재귀.md)
+
 > 2021-2-09
 
 - [DailyAlgorithm / bianary](./DailyAlgorithm/biabary.md)
