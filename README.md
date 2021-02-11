@@ -21,6 +21,23 @@
 
 # 기록
 
+> 2021-2-11
+
+- [DailyAlgorithm / 문자열 다루기 기본](./DailyAlgorithm/문자열_다루기_기본.md)
+- [DailyAlgorithm / 문자열 내림차순으로 배치하기](./DailyAlgorithm/문자열_내림차순으로_배치하기.md)
+- [DailyAlgorithm / 같은 숫자는 싫어](./DailyAlgorithm/같은_숫자는_싫어.md)
+- [**update** DailyAlgorithm / K번째 수](./DailyAlgorithm/K번째_수.md)
+- [**update** DailyAlgorithm / 가운데 글자 가져오기](./DailyAlgorithm/가운데_글자_가져오기.md)
+- [**update** DailyAlgorithm / 나누어 떨어지는 숫자 배열](./DailyAlgorithm/나누어_떨어지는_숫자_배열.md)
+- [**update** DailyAlgorithm / 내적](./DailyAlgorithm/내적.md)
+- [**update** DailyAlgorithm / 두 개 뽑아서 더하기](./DailyAlgorithm/두_개_뽑아서_더하기.md)
+- [**update** DailyAlgorithm / 두 정수 사이의 합](./DailyAlgorithm/두_정수_사이의_합.md)
+- [**update** DailyAlgorithm / 문자내 P와 Y의 개수](./DailyAlgorithm/문자내_P와_Y의_개수.md)
+- [**update** DailyAlgorithm / 문자열을 정수로 바꾸기](./DailyAlgorithm/문자열을_정수로_바꾸기.md)
+- [**update** DailyAlgorithm / 서울에서 김서방 찾기](./DailyAlgorithm/서울에서_김서방_찾기.md)
+- [**update** DailyAlgorithm / 수박수박수박수박수](./DailyAlgorithm/수박수박수박수박수.md)
+- [**update** DailyAlgorithm / 자릿수 더하기](./DailyAlgorithm/자릿수_더하기.md)
+
 > 2021-2-10
 
 - [JavaScript / 재귀](./JavaScript/재귀.md)
