@@ -29,23 +29,20 @@ N is an integer within the range [1..2,147,483,647].
 <br />
  
  # 문제 풀이
- ```js
+
+```js
 function solution(N) {
-    let toBinary = N.toString(2)
-    let binarySlice = toBinary.slice(toBinary.indexOf(1)+1, toBinary.lastIndexOf(1))
-    let binarySplit = binarySlice.split(1)
-    let result = []
+  let toBinary = N.toString(2);
+  let binarySlice = toBinary.slice(toBinary.indexOf(1) + 1, toBinary.lastIndexOf(1));
+  let binarySplit = binarySlice.split(1);
+  let result = [];
 
-    for(let i = 0; i < binarySplit.length; i++){
-        if(binarySplit[i] === '') continue;
+  for (let i = 0; i < binarySplit.length; i++) {
+    if (binarySplit[i] === "") continue;
 
-        result.push(binarySplit[i].length)
-    }
+    result.push(binarySplit[i].length);
+  }
 
-return result.length ? Math.max(...result) : 0
+  return result.length ? Math.max(...result) : 0;
 }
-
-```
-
-<br />
 ```
