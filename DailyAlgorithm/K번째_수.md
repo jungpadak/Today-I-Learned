@@ -32,6 +32,8 @@ commands의 각 원소는 길이가 3입니다. <br />
 
 # 문제 풀이
 
+## Javascript
+
 ```js
 function solution(array, commands) {
   var answer = [];
@@ -50,4 +52,18 @@ function solution(array, commands) {
 
   return answer;
 }
+```
+
+## Python
+
+```python
+def solution(array, commands):
+    answer = []
+
+    for i in commands:
+        slice = array[i[0]-1:i[1]]
+        slice.sort()
+        answer.append(slice[i[2]-1])
+
+    return answer
 ```
