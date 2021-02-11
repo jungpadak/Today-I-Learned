@@ -56,7 +56,7 @@ function solution(array, commands) {
 
 ## Python
 
-```py
+```python
 def solution(array, commands):
     answer = []
 
