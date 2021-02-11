@@ -33,6 +33,8 @@
 
 # 문제 풀이
 
+## Javascript
+
 ```js
 function solution(s) {
   var answer = true;
@@ -48,4 +50,24 @@ function solution(s) {
 
   return answer;
 }
+```
+
+## Python
+
+```python
+def solution(s):
+    answer = True
+    S = s.upper()
+    stack = 0
+
+    for i in S:
+        if i == "P":
+            stack += 1
+        elif i == 'Y':
+            stack -= 1
+
+    if stack == 0:
+        return True
+    else:
+        return False
 ```
