@@ -1,10 +1,8 @@
-안좋은 기억을 믿지말고 기록을 하자
-
 # Today I Learned 규칙
 
 > <br />
-> - 오늘 학습하거나 알게 된 혹은 궁금한 것들을 매일매일 정리<br />
-> - 이해한 내용만 작성하자 <br /><br />
+> - 오늘 학습하거나 알게 된 혹은 궁금한 것들을 매일매일 정리합니다.<br />
+> - 이해한 내용만 작성합니다. <br /><br />
 
 <br />
 
@@ -20,6 +18,21 @@
 <br />
 
 # 기록
+
+> 2021-2-12
+
+- [DailyAlgorithm / 하샤드의 수](./DailyAlgorithm/하샤드의_수.md)
+- [DailyAlgorithm / 직사각형 별찍기](./DailyAlgorithm/직사각형_별찍기.md)
+- [DailyAlgorithm / 제일 작은 수 제거하기](./DailyAlgorithm/제일_작은_수_제거하기.md)
+- [DailyAlgorithm / 정수 내림차순으로 배치하기](./DailyAlgorithm/정수_내림차순으로_배치하기.md)
+- [DailyAlgorithm / 자연수를 뒤집어 배열로 만들기](./DailyAlgorithm/자연수를_뒤집어_배열로_만들기.md)
+- [DailyAlgorithm / 약수의 합](./DailyAlgorithm/약수의_합.md)
+- [DailyAlgorithm / x만큼 간격이 있는 n개의 숫자](./DailyAlgorithm/x만큼_간격이_있는_n개의_숫자.md)
+- [**update** DailyAlgorithm / 콜라츠 추축](./DailyAlgorithm/콜라츠_추측.md)
+- [**update** DailyAlgorithm / 크레인 인형뽑기 게임](./DailyAlgorithm/크레인_인형뽑기_게임.md)
+- [**update** DailyAlgorithm / 평균 구하기](./DailyAlgorithm/평군_구하기.md)
+- [**update** DailyAlgorithm / 행렬의 덧셈](./DailyAlgorithm/행렬의_덧셈.md)
+- [**update** DailyAlgorithm / 짝수와 홀수](./DailyAlgorithm/짝수와_홀수.md)
 
 > 2021-2-11
 
