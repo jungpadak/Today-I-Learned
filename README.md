@@ -21,6 +21,8 @@
 
 > 2021-2-12
 
+- [DailyAlgorithm / 정수 제곱근 판별](./DailyAlgorithm/정수_제곱근_판별.md)
+- [DailyAlgorithm / 핸드폰 번호 가리기](./DailyAlgorithm/핸드폰_번호_가리기.md)
 - [DailyAlgorithm / 하샤드의 수](./DailyAlgorithm/하샤드의_수.md)
 - [DailyAlgorithm / 직사각형 별찍기](./DailyAlgorithm/직사각형_별찍기.md)
 - [DailyAlgorithm / 제일 작은 수 제거하기](./DailyAlgorithm/제일_작은_수_제거하기.md)
