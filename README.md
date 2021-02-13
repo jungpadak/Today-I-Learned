@@ -19,6 +19,15 @@
 
 # 기록
 
+> 2021-2-13
+
+- [DailyAlgorithm / 비밀지도](./DailyAlgorithm/비밀지도.md)
+- [DailyAlgorithm / 시저 암호](./DailyAlgorithm/시저_암호.md)
+- [DailyAlgorithm / 문자 내 마음대로 뒤집기](./DailyAlgorithm/문자_내_마음대로_뒤집기.md)
+- [DailyAlgorithm / 3진법 뒤집기](./DailyAlgorithm/3진법_뒤집기.md)
+- [**update** DailyAlgorithm / 올바른 괄호](./DailyAlgorithm/올바른_괄호.md)
+- [**update** DailyAlgorithm / 최솟값과 최댓값](./DailyAlgorithm/최솟값과_최댓값.md)
+
 > 2021-2-12
 
 - [DailyAlgorithm / 정수 제곱근 판별](./DailyAlgorithm/정수_제곱근_판별.md)
