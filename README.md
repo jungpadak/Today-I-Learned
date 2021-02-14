@@ -19,6 +19,11 @@
 
 # 기록
 
+> 2021-2-14
+
+- [DailyAlgorithm / 소수 찾기](./DailyAlgorithm/소수_찾기.md)
+- [**update** DailyAlgorithm / 완주하지 못한 선수](./DailyAlgorithm/완주하지_못한_선수.md)
+
 > 2021-2-13
 
 - [DailyAlgorithm / 비밀지도](./DailyAlgorithm/비밀지도.md)
