@@ -19,6 +19,16 @@
 
 # 기록
 
+> 2021-2-15
+
+- [DailyAlgorithm / 피보나치 수](./DailyAlgorithm/피보나치_수.md)
+- [DailyAlgorithm / 이진 변환 반복하기](./DailyAlgorithm/이진_변환_반복하기.md)
+- [DailyAlgorithm / JadenCase 문자열 만들기](./DailyAlgorithm/JadenCase_문자열_만들기.md)
+- [DailyAlgorithm / 다음 큰 숫자](./DailyAlgorithm/다음_큰_숫자.md)
+- [DailyAlgorithm / 2016년](./DailyAlgorithm/2016년.md)
+- [DailyAlgorithm / 다트 게임](./DailyAlgorithm/다트_게임.md)
+- [DailyAlgorithm / 최대공약수와 최소공배수](./DailyAlgorithm/최대공약수와_최소공배수.md)
+
 > 2021-2-14
 
 - [DailyAlgorithm / 소수 찾기](./DailyAlgorithm/소수_찾기.md)
