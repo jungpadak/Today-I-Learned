@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-2-16
+
+- [Codestates / Pre Week4 Weather API](./Codestates/Pre_Week4_Weather_api.md)
+
 > 2021-2-15
 
 - [DailyAlgorithm / 피보나치 수](./DailyAlgorithm/피보나치_수.md)
