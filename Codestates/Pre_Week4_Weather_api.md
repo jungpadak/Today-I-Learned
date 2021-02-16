@@ -1,6 +1,8 @@
 # Pre Week 4 Weather API
 
-![](./image/weather_api.gif)
+![](./image/weather_snow.png)
+
+[Weather API Git.io 링크](./https://woogie-94.github.io/CodeStates/Pre_Weather_api/)
 
 코드스테이츠 마지막 4주차의 과제 Weather API입니다. fetch를 이용해서 api를 호출하고 다루는 작업을하는 과제였습니다. 과제 조건은 아래와 같습니다.
 
@@ -43,6 +45,8 @@ function getData(name) {
 
 API key와 API를 따로 `API_KEY` `API_URL_OpenWeatherMap` 라는 변수에 할당해주었고 `fetch(API_URL_OpenWeatherMap)`를 이용해서 API를 호출했습니다.
 
+<br />
+ 
 ![](./image/weather_api.gif)
 
 ```jsx
@@ -69,7 +73,7 @@ API key와 API를 따로 `API_KEY` `API_URL_OpenWeatherMap` 라는 변수에 할
  
 ## DOM을 이용해 데이터를 화면에 출력
 
-![](./image/weather_api.gif)
+![](./image/weather_clear.png)
 
 ```jsx
 function renderWeatherData(data) {
@@ -101,6 +105,8 @@ temp.textContent = `${f}F / ${c}C`;
 
 저는 섭씨와 화씨를 같이 쓰려고 둘 다 만들었어요 섭씨는 `Kelvin 온도 - 273.15`를 하면 나오고 화씨 온도는 `섭씨 온도 * 1.8 + 32`를 하면 구할 수 있어요 온도가 소수점까지 나오기 때문에 `toFixed`를 이용해 소숫점 첫자리까지만 나오게 만들었습니다. 그리고선 준비해둔 태그에 뿌려줬어요
 
+<br />
+ 
 ![](./image/weather_api_2.gif)
 
 ```jsx
