@@ -1,6 +1,7 @@
 # Pre Week3 Twittler
 
 ![](./image/twittler_1.png)
+[Twittler Git.io 링크](./https://woogie-94.github.io/CodeStates/Pre_Twittler/)
 
 이번주는 저번주에 HTML과 CSS로 만들어둔 Twittler에 기능을 구현하는 과제를 내주셨습니다!!
 
