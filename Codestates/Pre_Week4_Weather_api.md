@@ -2,7 +2,7 @@
 
 ![](./image/weather_snow.png)
 
-[Weather API Git.io 링크](./https://woogie-94.github.io/CodeStates/Pre_Weather_api/)
+[Weather API Git.io 링크](https://woogie-94.github.io/CodeStates/Pre_Weather_api/)
 
 코드스테이츠 마지막 4주차의 과제 Weather API입니다. fetch를 이용해서 api를 호출하고 다루는 작업을하는 과제였습니다. 과제 조건은 아래와 같습니다.
 
