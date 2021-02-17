@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-2-17
+
+- [Python / 리스트 다루기](./Python/리스트_다루기.md)
+
 > 2021-2-16
 
 - [Codestates / Pre Week4 Weather API](./Codestates/Pre_Week4_Weather_api.md)
