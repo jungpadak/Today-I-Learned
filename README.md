@@ -19,6 +19,13 @@
 
 # 기록
 
+> 2021-2-18
+
+- [DailyAlgorithm / Crawler Log Folder](./DailyAlgorithm/Crawler_Log_Folder.md)
+- [DailyAlgorithm / 기능 개발](./DailyAlgorithm/기능_개발.md)
+- [DailyAlgorithm / 위장](./DailyAlgorithm/위장.md)
+- [DailyAlgorithm / 체육복](./DailyAlgorithm/체육복.md)
+
 > 2021-2-17
 
 - [Python / 리스트 다루기](./Python/리스트_다루기.md)
