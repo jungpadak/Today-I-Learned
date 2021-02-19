@@ -62,5 +62,4 @@ class Solution:
                 continue
             cnt += 1
         return 0 if cnt < 0 else cnt
-
 ```
