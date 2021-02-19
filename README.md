@@ -21,7 +21,7 @@
 
 > 2021-2-19
 
-- [ToyProject / Calendar_VanilaJS](./ToyProject/Calendar_VanilaJs/Calendar_VanilaJS.md)
+- [ToyProject / Calendar_VanilaJS](./ToyProject/Calendar_VanilaJs/README.md)
 - [ToyProject / Moment로 달력 만들기](./ToyProject/Calendar_VanilaJs/Moment로_달력_만들기.md)
 - [ToyProject / Calendar_VanilaJS #1](./ToyProject/Calendar_VanilaJs/Calendar_VanilaJS_day_1.md)
 
