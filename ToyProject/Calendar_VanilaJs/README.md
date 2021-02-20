@@ -12,4 +12,4 @@
 
 [Moment로 달력 만들기](https://github.com/Woogie-94/Today-I-Learned/blob/main/ToyProject/Calendar_VanilaJs/Moment%EB%A1%9C_%EB%8B%AC%EB%A0%A5_%EB%A7%8C%EB%93%A4%EA%B8%B0.md) <br/>
 [Calendar VanilaJs #1](https://github.com/Woogie-94/Today-I-Learned/blob/main/ToyProject/Calendar_VanilaJs/Calendar_VanilaJS_day_1.md)
-[Calendar VanilaJs #1](https://github.com/Woogie-94/Today-I-Learned/blob/main/ToyProject/Calendar_VanilaJs/Calendar_VanilaJS_day_2.md)
+[Calendar VanilaJs #2](https://github.com/Woogie-94/Today-I-Learned/blob/main/ToyProject/Calendar_VanilaJs/Calendar_VanilaJS_day_2.md)
