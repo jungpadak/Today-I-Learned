@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-2-20
+
+- [ToyProject / Calendar VanilaJs #2](https://github.com/Woogie-94/Today-I-Learned/blob/main/ToyProject/Calendar_VanilaJs/Calendar_VanilaJS_day_2.md)
+
 > 2021-2-19
 
 - [ToyProject / Calendar_VanilaJS](./ToyProject/Calendar_VanilaJs/README.md)
