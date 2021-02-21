@@ -19,6 +19,8 @@
 
 # 기록
 
+- [DailyAlgorithm / 키패드 누르기](./DailyAlgorithm/키패드_누르기.md)
+
 > 2021-2-20
 
 - [ToyProject / Calendar VanilaJs #2](https://github.com/Woogie-94/Today-I-Learned/blob/main/ToyProject/Calendar_VanilaJs/Calendar_VanilaJS_day_2.md)
