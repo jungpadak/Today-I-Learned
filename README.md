@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-2-22
+
+- [Javascript / 객체 지향 프로그래밍](./JavaScript/객체_지향_프로그래밍.md)
+
 > 2021-2-21
 
 - [DailyAlgorithm / 키패드 누르기](./DailyAlgorithm/키패드_누르기.md)
