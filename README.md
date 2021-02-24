@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-2-24
+
+- [DailyAlgorithm / 조이스틱](./DailyAlgorithm/조이스틱.md)
+
 > 2021-2-23
 
 - [CLI_Git / Git 명령어 모음](./CLI_Git/Git_명령어_모음.md)
