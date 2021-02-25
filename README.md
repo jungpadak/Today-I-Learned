@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-2-25
+
+- [Javascript / ES_6](./JavaScript/ES_6.md)
+
 > 2021-2-24
 
 - [DailyAlgorithm / 조이스틱](./DailyAlgorithm/조이스틱.md)
