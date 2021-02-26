@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-2-26
+
+- [DailyAlgorithm / 주식 가격](./DailyAlgorithm/주식_가격.md)
+
 > 2021-2-25
 
 - [Javascript / ES_6](./JavaScript/ES_6.md)
