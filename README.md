@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-2-29
+
+- [DailyAlgorithm / 더 맵게](./DailyAlgorithm/더_맵게.md)
+
 > 2021-2-28
 
 - [DailyAlgorithm / 프린터](./DailyAlgorithm/프린터.md)
