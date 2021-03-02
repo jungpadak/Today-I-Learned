@@ -19,7 +19,11 @@
 
 # 기록
 
-> 2021-2-29
+> 2021-3-02
+
+- [Javascript / 클래스](./JavaScript/클래스.md)
+
+> 2021-3-01
 
 - [DailyAlgorithm / 더 맵게](./DailyAlgorithm/더_맵게.md)
 
