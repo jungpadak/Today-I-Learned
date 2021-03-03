@@ -19,6 +19,11 @@
 
 # 기록
 
+> 2021-3-03
+
+- [DailyAlgorithm / 카펫](./DailyAlgorithm/카펫.md)
+- [DailyAlgorithm / 소수 찾기2](./DailyAlgorithm/소수_찾기2.md)
+
 > 2021-3-02
 
 - [Javascript / 클래스](./JavaScript/클래스.md)
