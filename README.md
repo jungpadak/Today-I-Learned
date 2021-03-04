@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-04
+
+- [DailyAlgorithm / 다리를 건너는 트럭](./DailyAlgorithm/다리를_건너는_트럭.md)
+
 > 2021-3-03
 
 - [DailyAlgorithm / 카펫](./DailyAlgorithm/카펫.md)
