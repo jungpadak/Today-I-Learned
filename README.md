@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-05
+
+- [DailyAlgorithm / 김장인의 국밥집](./DailyAlgorithm/김장인의_국밥집.md)
+
 > 2021-3-04
 
 - [DailyAlgorithm / 다리를 건너는 트럭](./DailyAlgorithm/다리를_건너는_트럭.md)
