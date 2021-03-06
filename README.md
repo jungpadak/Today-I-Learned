@@ -19,6 +19,11 @@
 
 # 기록
 
+> 2021-3-06
+
+- [DailyAlgorithm / Reverse String](./DailyAlgorithm/Reverse_String.md)
+- [DailyAlgorithm / Valid Palindrome](./DailyAlgorithm/Valid_Palindrome.md)
+
 > 2021-3-05
 
 - [DailyAlgorithm / 김장인의 국밥집](./DailyAlgorithm/김장인의_국밥집.md)
