@@ -21,6 +21,11 @@
 
 > 2021-3-06
 
+- [DailyAlgorithm / 가장 먼 노드](./DailyAlgorithm/가장_먼_노드.md)
+- [DailyAlgorithm / 단어 변환](./DailyAlgorithm/단어_변환.md)
+
+> 2021-3-06
+
 - [DailyAlgorithm / Reverse String](./DailyAlgorithm/Reverse_String.md)
 - [DailyAlgorithm / Valid Palindrome](./DailyAlgorithm/Valid_Palindrome.md)
 
