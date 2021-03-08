@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-07
+
+- [DailyAlgorithm / 구명 보트](./DailyAlgorithm/구명_보트.md)
+
 > 2021-3-06
 
 - [DailyAlgorithm / 가장 먼 노드](./DailyAlgorithm/가장_먼_노드.md)
