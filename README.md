@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-08
+
+- [DailyAlgorithm / 네트워크](./DailyAlgorithm/네트워크.md)
+
 > 2021-3-07
 
 - [ETC / 좌표 geohash 변환](./ETC/좌표_geohash_변환.md)
