@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-09
+
+- [Javascript / 비동기](./JavaScript/비동기.md)
+
 > 2021-3-08
 
 - [DailyAlgorithm / 네트워크](./DailyAlgorithm/네트워크.md)
