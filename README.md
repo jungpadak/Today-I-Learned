@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-10
+
+- [DailyAlgorithm / 스킬 트리](./DailyAlgorithm/스킬_트리.md)
+
 > 2021-3-09
 
 - [Javascript / 비동기](./JavaScript/비동기.md)
