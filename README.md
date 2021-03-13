@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-14
+
+- [Algorithm / 투 포인터](./Algorithm/투_포인터.md)
+
 > 2021-3-13
 
 - [DailyAlgorithm / 가장 긴 팰린드롬](./DailyAlgorithm/가장_긴_팰린드롬.md)
