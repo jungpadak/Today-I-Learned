@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-15
+
+- [DailyAlgorithm / 2xN 타일링](./DailyAlgorithm/2xn_타일링.md)
+
 > 2021-3-14
 
 - [Algorithm / 투 포인터](./Algorithm/투_포인터.md)
