@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-16
+
+- [DailyAlgorithm / 단속카메라](./DailyAlgorithm/단속카메라.md)
+
 > 2021-3-15
 
 - [DailyAlgorithm / 2xN 타일링](./DailyAlgorithm/2xn_타일링.md)
