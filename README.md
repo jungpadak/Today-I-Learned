@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-17
+
+- [DailyAlgorithm / 여행경로](./DailyAlgorithm/여행경로.md)
+
 > 2021-3-16
 
 - [DailyAlgorithm / 단속카메라](./DailyAlgorithm/단속카메라.md)
