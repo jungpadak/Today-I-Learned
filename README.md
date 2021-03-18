@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-18
+
+- [ToyProject / zigbang # 2](./DailyAlgorithm/zigbang_dat_2.md)
+
 > 2021-3-17
 
 - [DailyAlgorithm / 여행경로](./DailyAlgorithm/여행경로.md)
