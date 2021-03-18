@@ -21,7 +21,7 @@
 
 > 2021-3-18
 
-- [ToyProject / zigbang # 2](./DailyAlgorithm/zigbang_day_2.md)
+- [ToyProject / zigbang # 2](./ToyProject/zigbang_day_2.md)
 
 > 2021-3-17
 
