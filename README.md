@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-20
+
+- [DailyAlgorithm / 소수 만들기](./DailyAlgorithm/소수_만들기.md)
+
 > 2021-3-19
 
 - [DailyAlgorithm / 거스름돈](./DailyAlgorithm/거스름돈.md)
