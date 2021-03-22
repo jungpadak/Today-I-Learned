@@ -25,7 +25,7 @@
 
 > 2021-3-21
 
-- [Web / HTTP 프로토콜](./Web/HTTP_프로토콜.md)
+- [Server / HTTP 프로토콜](./Server/HTTP_프로토콜.md)
 
 > 2021-3-20
 
