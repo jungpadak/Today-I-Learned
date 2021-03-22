@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-22
+
+- [Server / CORS](./Server/CORS.md)
+
 > 2021-3-21
 
 - [Web / HTTP 프로토콜](./Web/HTTP_프로토콜.md)
