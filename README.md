@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-25
+
+- [DailyAlgorithm / 압축](./DailyAlgorithm/압축.md)
+
 > 2021-3-24
 
 - [React / JSX](./React/JSX.md)
