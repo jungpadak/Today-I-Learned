@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-27
+
+- [React / Props](./React/Props.md)
+
 > 2021-3-26
 
 - [React / VirtualDOM](./React/VirtualDOM.md)
