@@ -21,6 +21,10 @@
 
 > 2021-3-28
 
+- [DailyAlgorithm / 짝지어 제거하기](./DailyAlgorithm/짝지어_제거하기.md)
+
+> 2021-3-28
+
 - [DailyAlgorithm / 오픈채팅방](./DailyAlgorithm/오픈채팅방.md)
 
 > 2021-3-27
