@@ -19,7 +19,7 @@
 
 # 기록
 
-> 2021-3-28
+> 2021-3-29
 
 - [DailyAlgorithm / 짝지어 제거하기](./DailyAlgorithm/짝지어_제거하기.md)
 
