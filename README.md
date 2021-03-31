@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-3-31
+
+- [DailyAlgorithm / 순위](./DailyAlgorithm/순위.md)
+
 > 2021-3-30
 
 - [Web / SSR CSR](./Web/SSR_CSR.md)
