@@ -21,7 +21,7 @@
 
 > 2021-4-02
 
-- [Javascript](./JavaScript/호이스팅.md)
+- [Javascript / 호이스팅](./JavaScript/호이스팅.md)
 
 > 2021-4-01
 
