@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-05
+
+- [Library / 리덕스 개념](./Library/리덕스_개념.md)
+
 > 2021-4-04
 
 - [DailyAlgorithm / 모의고사](./DailyAlgorithm/모의고사.md)
