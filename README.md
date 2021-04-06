@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-06
+
+- [DailyAlgorithm / N개의 최소공배수](./DailyAlgorithm/N개의_최소공배수.md)
+
 > 2021-4-05
 
 - [Library / 리덕스 개념](./Library/리덕스_개념.md)
