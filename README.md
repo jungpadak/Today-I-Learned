@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-07
+
+- [DailyAlgorithm / 전화번호 목록](./DailyAlgorithm/전화번호_목록.md)
+
 > 2021-4-06
 
 - [DailyAlgorithm / N개의 최소공배수](./DailyAlgorithm/N개의_최소공배수.md)
