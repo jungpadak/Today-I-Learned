@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-08
+
+- [DailyAlgorithm / 가장 큰 정사각형 찾기](./DailyAlgorithm/가장_큰_정사각형_찾기.md)
+
 > 2021-4-07
 
 - [DailyAlgorithm / 전화번호 목록](./DailyAlgorithm/전화번호_목록.md)
