@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-09
+
+- [TypeScript / 함수에서 타입 활용](./TypeScript/함수에서_타입_활용.md)
+
 > 2021-4-08
 
 - [DailyAlgorithm / 가장 큰 정사각형 찾기](./DailyAlgorithm/가장_큰_정사각형_찾기.md)
