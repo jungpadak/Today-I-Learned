@@ -19,9 +19,14 @@
 
 # 기록
 
+> 2021-4-10
+
+- [Typescript / 타입스크립트 기본 타입](./TypeScript/타입스크립트_기본_타입.md)
+- [Typescript / 타입스크립트 고급 타입](./TypeScript/타입스크립트_고급_타입.md)
+
 > 2021-4-09
 
-- [TypeScript / 함수에서 타입 활용](./TypeScript/함수에서_타입_활용.md)
+- [Typescript / 함수에서 타입 활용](./TypeScript/함수에서_타입_활용.md)
 
 > 2021-4-08
 
