@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-11
+
+- [DailyAlgorithm / 땅따먹기](./DailyAlgorithm/땅따먹기.md)
+
 > 2021-4-10
 
 - [Typescript / 타입스크립트 기본 타입](./TypeScript/타입스크립트_기본_타입.md)
