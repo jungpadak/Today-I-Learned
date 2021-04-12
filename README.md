@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-12
+
+- [Typescript / Geberic](./TypeScript/Geberic.md)
+
 > 2021-4-11
 
 - [DailyAlgorithm / 땅따먹기](./DailyAlgorithm/땅따먹기.md)
