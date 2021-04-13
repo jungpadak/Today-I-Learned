@@ -21,6 +21,10 @@
 
 > 2021-4-12
 
+- [Typescript / 타입스크립트 CRA와 설정](./TypeScript/타입스크립트_CRA와_설정.md)
+
+> 2021-4-12
+
 - [Typescript / Geberic](./TypeScript/Geberic.md)
 
 > 2021-4-11
