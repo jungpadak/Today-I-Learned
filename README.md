@@ -19,7 +19,11 @@
 
 # 기록
 
-> 2021-4-12
+> 2021-4-14
+
+- [ToyProject / Diary #1](https://github.com/Woogie-94/Woogie-94.github.io/tree/master/ToyProject/diary)
+
+> 2021-4-13
 
 - [Typescript / 타입스크립트 CRA와 설정](./TypeScript/타입스크립트_CRA와_설정.md)
 
