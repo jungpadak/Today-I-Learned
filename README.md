@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-16
+
+- [ToyProject / Diary #2](https://github.com/Woogie-94/Woogie-94.github.io/tree/master/ToyProject/diary)
+
 > 2021-4-15
 
 - [Library / styeld-components](./Library/styled-components.md)
