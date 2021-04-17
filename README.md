@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-17
+
+- [React / Global Style](./React/Global_Style.md)
+
 > 2021-4-16
 
 - [ToyProject / Diary #2](https://github.com/Woogie-94/Woogie-94.github.io/tree/master/ToyProject/diary)
