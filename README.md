@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-21
+
+- [ETC / npm global & local](./ETC/npm_global_&_local.md)
+
 > 2021-4-20
 
 - [Library / Storybook](./Library/Storybook.md)
