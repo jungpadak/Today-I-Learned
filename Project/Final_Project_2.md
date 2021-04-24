@@ -8,16 +8,15 @@
 
 ## 디자인
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7d82403-8be7-4f7d-8a22-2f9e56e7a97f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7d82403-8be7-4f7d-8a22-2f9e56e7a97f/Untitled.png)
+![](./image/Final_2_1.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea287e6b-fb0d-42bd-b676-5ba16c7c5038/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea287e6b-fb0d-42bd-b676-5ba16c7c5038/Untitled.png)
-
+![](./image/Final_2_2.png)
 디자인엔 자신이 없어서 최대한 색상을 안쓰고 심플하게 디자인했다. 디자인은 해보지 않은 분야여서 자신이 없었다. 그래서 최대한 심플하게 하자는 의견을 어필했고 위와 같은 작업물이 나왔다.
 
 <br />
  
 ## 스키마 모델
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bcc035f-002d-44fe-8998-d4d0105aff5d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bcc035f-002d-44fe-8998-d4d0105aff5d/Untitled.png)
+![](./image/Final_2_3.png)
 
 나머지 두분이서 만드신 스키마 모델이다. Mysql과 MongoDB을 상황에 맞게 섞어서 사용할 것 같다.
