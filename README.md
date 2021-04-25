@@ -19,6 +19,10 @@
 
 # 기록
 
+> 2021-4-25
+
+- [Setting / Eslint & Prettier](./Setting/Eslint&Prettier.md)
+
 > 2021-4-24
 
 - [Project / First Project #1](./Project/First_Project_1.md)
