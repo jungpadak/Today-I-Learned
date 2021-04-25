@@ -80,7 +80,11 @@ module.exports = {
     browser: true,
     es2021: true,
   },
-  extends: ["eslint:recommended", "plugin:react/recommended", "plugin:@typescript-eslint/recommended"],
+  extends: [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:@typescript-eslint/recommended",
+  ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
     ecmaFeatures: {
@@ -113,8 +117,79 @@ module.exports = {
  
 # Prettier
 
-Prettier는 코드 포멧터로 개발자가 작성한 코드를 정해진 코딩 스타일을 따르도록 자동적으로 변환 시켜주는 아주 편리한 도구입니다. Eslint와 함께 쓰면 아주 좋은 시너지를 내기 때문에 보통 이 둘을 같이 사용하는 편입니다.
+Prettier는 코드 포멧터로 개발자가 작성한 코드를 정해진 코딩 스타일을 따르도록 자동으로 변환 시켜주는 아주 편리한 도구입니다. Eslint와 함께 쓰면 아주 좋은 시너지를 내기 때문에 보통 이 둘을 같이 사용하는 편입니다.
 
 <br />
  
 ## Prettier 설치
+
+Prettier 설치를 위해 아래와 같이 작성해줍니다.
+
+```jsx
+$ npm i -D prettier eslint-config-prettier eslint-plugin-prettier
+```
+
+설치된 패키지는 아래와 같습니다.
+
+- [`eslint-config-prettier`](https://github.com/prettier/eslint-config-prettier) ESLint와 Prettier의 충돌을 막아줌
+- [`eslint-plugin-prettier`](https://github.com/prettier/eslint-plugin-prettier) Prettier를 ESLint 규칙으로 실행하고 문제점을 ESLint로 보고
+
+위에서 설치한 패지키들을 eslint 설정 파일에 적용 시켜야 합니다.
+
+```jsx
+module.exports = {
+  env: {
+    browser: true,
+    es2021: true,
+  },
+  extends: [
+    "plugin:react/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "prettier/@typescript-eslint", // *추가*
+    "plugin:prettier/recommended", // *추가*
+  ],
+  parser: "@typescript-eslint/parser",
+  parserOptions: {
+    ecmaFeatures: {
+      jsx: true,
+    },
+    ecmaVersion: 12,
+  },
+  plugins: ["react", "@typescript-eslint", "prettier"],
+  rules: {
+    "no-console": "error",
+  },
+};
+```
+
+이번엔 `.prettier.js` 파일을 수동으로 아래와 같이 작성해줍니다.
+
+```jsx
+module.exports = {
+  semi: true,
+  trailingComma: "all",
+  singleQuote: true,
+  printWidth: 120,
+  tabWidth: 2,
+};
+```
+
+prettier 설정값은 [Prettier doc](https://prettier.io/docs/en/options.html)에서 확인 가능합니다. 원하는 설정 값들을 넣어주고 저장 후에 코드를 작성하면 prettier와 eslint가 잘 작동되는 것을 확인할 수 있습니다.
+
+<br />
+ 
+# 저장 시 자동 포맷팅
+
+코드를 작성하고 prettier를 매번 실행 시켜줘야 하는 것은 너무 귀찮은 일입니다. 그래서 파일을 저장 시에 prettier가 작동할 수 있도록 에디터에서 설정을 바꿔봅시다.
+
+```jsx
+{
+  "explorer.confirmDelete": false,
+  "javascript.format.enable": false,
+  "editor.formatOnSave": true,
+  "html.format.enable": false,
+  "typescript.format.enable": false,
+}
+```
+
+위와 같이 에디터 설정을 바꿔주면 저장시 자동 포맷팅이 되는걸 확인할 수 있습니다.
