@@ -1,5 +1,9 @@
 # 기록
 
+> 2021-5-02
+
+- [Project / First Project #8](./Project/First_Project_8.md)
+
 > 2021-5-01
 
 - [Project / First Project #7](./Project/First_Project_7.md)
