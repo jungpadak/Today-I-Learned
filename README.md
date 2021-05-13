@@ -1,6 +1,10 @@
 # 기록
 
-> 2021-5-12
+> 2021-5-13
+
+- [Project / Final Project #7](./Project/Final_Project_7.md)
+
+  > 2021-5-12
 
 - [Project / Final Project #6](./Project/Final_Project_6.md)
 
