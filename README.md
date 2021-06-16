@@ -2,7 +2,7 @@
 
 > 2021-6-16
 
-- [Interview / HTTP와 HTTPS의 차이점](./Interview/HTTP와_HTTPS의_차이점.md)
+- [Interview / HTTP와 HTTPS의 차이점](./Interview/HTTP와_HTTPS_차이점.md)
 
   > 2021-6-15
 
