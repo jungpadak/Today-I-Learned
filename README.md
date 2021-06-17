@@ -1,5 +1,9 @@
 # 기록
 
+> 2021-6-17
+
+- [Interview / 스코프란 무엇인가](./Interview/스코프란_무엇인가.md)
+
 > 2021-6-16
 
 - [Interview / HTTP와 HTTPS의 차이점](./Interview/HTTP와_HTTPS_차이점.md)
